@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.myfirstroboshop.online # submit your host
+REDIS_HOST: redis.myfirstroboshop.online
+MYSQL_HOST: mysql.myfirstroboshop.online
+RABBITMQ_HOST: rabbitmq.myfirstroboshop.online
+CATALOGUE_HOST: catalogue.myfirstroboshop.online
+USER_HOST: user.myfirstroboshop.online
+CART_HOST: cart.myfirstroboshop.online
+SHIPPING_HOST: shipping.myfirstroboshop.online
+PAYMENT_HOST: payment.myfirstroboshop.online
+DISPATCH_HOST: dispatch.myfirstroboshop.online
